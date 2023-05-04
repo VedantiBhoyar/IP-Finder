@@ -1,4 +1,4 @@
-This is IP Address Finder Tool Using Java Swing
+This is IP Address Finder Tool Using Java Swing.
 In this project,I have use Java Swing( JFrame,JButton,TextField,JTextArea,JOptionPane),Java awt Event,Java networking.
 
 Let us discuss some terminologies regarding to this program , URL: URL is an acronym for Uniform Resource Locator. It points to a resource on the World Wide Web. The user have to Enter URL to find IP address in this program. Example of URL: www.linkedin.com , www.youtube.com etc.
@@ -36,4 +36,5 @@ Example3:
 ![Example3](https://user-images.githubusercontent.com/71519458/236199945-f7fe0325-40ee-43d4-b3e4-fbf1a7d58ae0.png)
 
 Output3:
+
 ![Ans3](https://user-images.githubusercontent.com/71519458/236199983-0d434eb7-78ff-42d8-a111-f0759451db1f.png)
